@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hello, I am Farida
 
-<!--
-**DA-Farida/DA-Farida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+♾️ Proficient marketer blending strategic thinking with a data-driven mindset  
+👩🏽‍🎓 Marketing-trained from day one, with hands-on experience in strategic analysis and data-informed decision-making.<br/> 
+🚀 I design at the intersection of creativity and analytics — where ideas turn into insights, and insights drive decisions.<br/>  
+✨ Explore my journey and projects below, showcasing my evolution in the world of data!<br/> 
 
-Here are some ideas to get you started:
+📫 How to reach me: Farilysnganteu@gmail.com<br/> 
+🤭🎧 Fun fact: I think best with lo-fi beats playing and a cup of ☕️ in hand.<br/> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Farida's GitHub stats](https://github-readme-stats.vercel.app/api?username=DA-Farida&count_private=true&show_icons=true&theme=jolly&hide_rank=false)](https://github.com/DA-Farida/github-readme-stats)
+
+🧠#learningbydoing | 📈#data_marketing | 👩🏽‍💻#womenindata 🫱🏼‍🫲🏽#openforopportunities
+
