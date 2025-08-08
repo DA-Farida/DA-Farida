@@ -1,7 +1,7 @@
 ### Hello, I am Farida
 
 ♾️ Proficient marketer blending strategic thinking with a data-driven mindset  
-👩🏽‍🎓 Marketing-trained from day one, with hands-on experience in strategic analysis and data-informed decision-making.<br/> 
+👩🏽‍🎓 [Marketing](https://www.linkedin.com/in/farida-tankoua-nganteu-495110194)-trained from day one, with hands-on experience in strategic analysis and data-informed decision-making.<br/> 
 🚀 I design at the intersection of creativity and analytics — where ideas turn into insights, and insights drive decisions.<br/>  
 ✨ Explore my journey and projects below, showcasing my evolution in the world of data!<br/> 
 
